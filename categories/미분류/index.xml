@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>미분류 on My New Hugo Site</title>
+    <link>/categories/%EB%AF%B8%EB%B6%84%EB%A5%98/</link>
+    <description>Recent content in 미분류 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 16 Jul 2020 21:39:54 +0900</lastBuildDate>
+    
+	<atom:link href="/categories/%EB%AF%B8%EB%B6%84%EB%A5%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>블로그를 새로 팠습니다.</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Thu, 16 Jul 2020 21:39:54 +0900</pubDate>
+      
+      <guid>/post/my-first-post/</guid>
+      <description>마지막 학기를 보내며&amp;hellip; 성균관대학교에서의 마지막 학기는 절대로 다시 보내고 싶지 않은 악몽과도 같았습니다. 학기 초부터 COVID-19로 인해 스케줄이 모두 꼬이게 되면서 제가 생각했던 계획은 거의 대부분 물거품이 되었고 &amp;lsquo;졸업&amp;rsquo;이라는 것 하나만을 바라보기 위해 제가 가진 모든 것을 포기하는 시간을 가지면서 좁은 자취방에 갇혀서 초조한 마음을 달래며 우울한 나날만을 보내곤 했습니다.
+지금에 와서야 이렇게 천진난만한 얼굴로 여유로운 글을 작성할 수 있었지만, 정말로 고통스러운 나날이었습니다. 저에게 남은 것은 6과목 17학점이라는 무리한 학업계획과 졸업작품 발표, 자격증 준비가 있었습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
